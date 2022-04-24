@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleBooksApp</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="search_text">Поиск</string>
+    <string name="placeholder">Нужная книга всегда найдется </string>
+    <string name="queries_header">Уточните параметры, по которым искать книги</string>
+</resources>
